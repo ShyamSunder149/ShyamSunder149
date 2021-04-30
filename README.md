@@ -1,13 +1,13 @@
 ### Hi there, I'm Shyam Sunder Saravanan aka Nitro 👋
 
 
-## I'm a Student, Musician and Developer!!
+## I'm a Undergrad Student
 
 
-- 🔭 I’m currently working on Backend and Devops
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Backend
+- 🌱 I’m currently learning everything which could help me get placed 🤣
 - 👯 I’m looking to learn from anyone who could teach me 
-- 🥅 2021 Goals: Contribute more to Open Source projects and improve competitive programming skills
+- 🥅 2021 Goals: Improving CP skills and getting some good hand in cybersecurity and web development
 - ⚡ Fun fact: I love multiplayer games and spending time on music production
 
 ### Spotify Playing 🎧
