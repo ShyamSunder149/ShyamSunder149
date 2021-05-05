@@ -40,10 +40,10 @@
 
 [website]: https://codeSTACKr.com
 
-[twitter]: https://twitter.com/sundersaravanan
+[twitter]: https://twitter.com/flintoffx
 [facebook]: https://www.facebook.com/profile.php?id=100004456715635
 [instagram]: https://www.instagram.com/shyam_nitro/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/shyam-sunder-saravanan-1587b4173/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
 
