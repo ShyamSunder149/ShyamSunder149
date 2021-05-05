@@ -1,14 +1,14 @@
 ### Hi there, I'm Shyam Sunder Saravanan aka Nitro 👋
 
 
-## I'm a Undergrad Student
+## I'm a ECE Undergrad Student
 
 
-- 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning everything which could help me get placed 🤣
-- 👯 I’m looking to learn from anyone who could teach me 
-- 🥅 2021 Goals: Improving CP skills and getting some good hand in cybersecurity and web development
-- ⚡ Fun fact: I love multiplayer games and spending time on music production
+- [+] I’m currently working on improving myself in every aspect
+- [+] I’m currently learning everything which could help me get placed (xD)
+- [+] I’m looking to learn from anyone who could teach me 
+- [+] 2021 Goals: Improving CP skills and getting some good knowledge in cybersecurity and web development
+- [+] CTF player for Team 1nf1n1ty (SASTRA University)
 
 ### Spotify Playing 🎧
 
