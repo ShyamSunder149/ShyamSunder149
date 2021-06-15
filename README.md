@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
-<p align="center">
+<!--p align="center">
  <img  src="assets/c.svg" alt="c"/>
 
  <img  src="assets/html5-2.svg" alt="html"/>
@@ -30,7 +30,7 @@
  <img  src="/assets/linux-tux.svg" alt="vim"/>
  <img  src="assets/bootstrap-4.svg" alt="vscode"/>
 
-</p>
+</p--->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
@@ -43,7 +43,7 @@
 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik-nayak98&label=Visitors&color=0088cc&style=flat-square" alt="karthik-nayak98" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShyamSunder149&label=Visitors&color=0088cc&style=flat-square" alt="karthik-nayak98" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
