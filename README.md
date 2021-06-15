@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Shyam Sunder** 🎯️🚀️</p>
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
@@ -36,11 +36,10 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/KarthikNayak98" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="karthiknayak98" /></a>
-<a href="https://github.com/Karthik-Nayak98" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="karthiknayak98" /></a>
-<a href="https://twitter.com/karthikNayak98" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="karthiknayak98" /></a>
-<a href="https://stackoverflow.com/users/9395755/karthiknayak98" target="blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-F48024?style=flat-square&logo=Stackoverflow&logoColor=white" alt="karthiknayak98" /></a>
-<a href="mailto:karunayak63@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="karthiknayak98" /></a>
+<a href="https://www.linkedin.com/in/shyam-sunder-saravanan-1587b4173/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="karthiknayak98" /></a>
+<a href="https://github.com/ShyamSunder149" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="karthiknayak98" /></a>
+<a href="https://twitter.com/flintoffx" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="karthiknayak98" /></a>
+<a href="mailto:shyamrossian@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="karthiknayak98" /></a>
 
 
 </p>
@@ -53,11 +52,11 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  </br>
  <p align="center">
-  <a href="https://github.com/Karthik-Nayak98">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/ShyamSunder149">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamSunder149&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/ShyamSunder149/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShyamSunder149&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
@@ -67,36 +66,23 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=ShyamSunder149&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
 
-<details>
- </br>
- <summary>⚡ <b>Recent Github Activity</b></summary>
 
-<!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-2. 🗣 Commented on [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-4. 🗣 Commented on [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> Lenovo ideapad 310 (i5)</li>
+  	    <li><b>OS:</b> Parrot OS MATE security edition</li>
+	    <li><b>Laptop: </b> Dell inspiron 14 3000 series</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Medium, Linkedin and Twitter.</li>
 	    <br />
 	</ul>
 </details>
