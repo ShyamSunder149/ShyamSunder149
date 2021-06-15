@@ -20,15 +20,15 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <p align="center">
- <img align="center" src="assets/c.svg" alt="c"/>
+ <img  src="assets/c.svg" alt="c"/>
 
- <img align="center" src="assets/html5-2.svg" alt="html"/>
- <img align="center" src="assets/java.svg" alt="Terminal"/>
- <img align="center" src="assets/terminal-1.svg" alt="Terminal"/>
- <img align="center" src="assets/python-5.svg" alt="python"/>
- <img align="center" src="assets/logo-javascript.svg" alt="react"/>
- <img align="center" src="/assets/linux-tux.svg" alt="vim"/>
- <img align="center" src="assets/bootstrap-4.svg" alt="vscode"/>
+ <img  src="assets/html5-2.svg" alt="html"/>
+ <img  src="assets/java.svg" alt="Terminal"/>
+ <img  src="assets/terminal-1.svg" alt="Terminal"/>
+ <img  src="assets/python-5.svg" alt="python"/>
+ <img  src="assets/logo-javascript.svg" alt="react"/>
+ <img  src="/assets/linux-tux.svg" alt="vim"/>
+ <img  src="assets/bootstrap-4.svg" alt="vscode"/>
 
 </p>
 
