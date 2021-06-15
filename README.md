@@ -21,16 +21,15 @@
 
 <p align="center">
  <img align="center" src="assets/c.svg" alt="c"/>
- <img align="center" src="assets/c++.svg" alt="c++"/>
- <img align="center" src="assets/html.svg" alt="html"/>
- <img align="center" src="assets/css.svg" alt="Terminal"/>
- <img align="center" src="assets/javascript.svg" alt="Terminal"/>
- <img align="center" src="assets/python.svg" alt="python"/>
- <img align="center" src="assets/react.svg" alt="react"/>
- <img align="center" src="/assets/vim.svg" alt="vim"/>
- <img align="center" src="assets/vscode.svg" alt="vscode"/>
- <img align="center" src="assets/git.svg" alt="git"/>
- <img align="center" src="assets/linux.svg" alt="linux"/>
+
+ <img align="center" src="assets/html5-2.svg" alt="html"/>
+ <img align="center" src="assets/java.svg" alt="Terminal"/>
+ <img align="center" src="assets/terminal-1.svg" alt="Terminal"/>
+ <img align="center" src="assets/python-5.svg" alt="python"/>
+ <img align="center" src="assets/logo-javascript.svg" alt="react"/>
+ <img align="center" src="/assets/linux-tux.svg" alt="vim"/>
+ <img align="center" src="assets/bootstrap-4.svg" alt="vscode"/>
+
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
