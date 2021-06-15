@@ -17,7 +17,21 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages,Technologies & Tools:**
+
+* C
+* C++
+* python
+* Java (along with Swing GUI)
+* SQL
+* Mongo DB
+* HTML
+* CSS (along with Bootstrap and Bulma)
+* JavaScript
+* Linux
+* Cryptography (along with Sage and maths)
+* Basic Cybersecurity fields (steganography,Forensics,RE,web,pwn)
+* Basic Cybersecurity tools (wireshark,burp,john,nmap,etc)
 
 <!--p align="center">
  <img  src="assets/c.svg" alt="c"/>
