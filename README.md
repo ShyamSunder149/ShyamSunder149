@@ -74,6 +74,8 @@
  </p>
 </details>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshisl&theme=blue-green" alt="meenakshisl" /></p>
+
 <details>
  <summary>🏆 <b>Github Profile Trophy</b></summary>
  </br>
