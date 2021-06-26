@@ -19,19 +19,16 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages,Technologies & Tools:**
 
-* C
-* C++
-* python
-* Java (along with Swing GUI)
-* SQL
-* Mongo DB
-* HTML
-* CSS (along with Bootstrap and Bulma)
-* JavaScript
-* Linux
-* Cryptography (along with Sage and maths)
-* Basic Cybersecurity fields (steganography,Forensics,RE,web,pwn)
-* Basic Cybersecurity tools (wireshark,burp,john,nmap,etc)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&&logo=HTML5&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
 <!--p align="center">
  <img  src="assets/c.svg" alt="c"/>
