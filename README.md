@@ -132,18 +132,19 @@
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/karthik-nayak24
-[gmail]: mailto:karunayak63@gmail.com 'Lets connect through email'
-[stackoverflow]: https://stackoverflow.com/users/9395755/karthiknayak98
-[github]: https://github.com/KarthikNayak024
-[licence]:
-  https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
-[twitter]: https://twitter.com/KarthikNayak98
+[linkedin]: https://www.linkedin.com/in/shyam-sunder-saravanan
+[gmail]: mailto:shyamrossian@gmail.com 'Lets connect through email'
+
+[github]: https://github.com/ShyamSunder149
+
+[twitter]: https://twitter.com/flintoffx
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ncj95a2znlbkva0wag1j98tl6)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSunder149&theme=blue-green" alt="" /></p>
 
 
 
