@@ -1,4 +1,4 @@
-# <p align="center">️ Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Shyam  🎯️🚀️</p>
+# <p align="center">️ Hello!!  <img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">  I'm Shyam  🎯️🚀️</p>
 
 
 ## Skills which I'm willing to Develop
