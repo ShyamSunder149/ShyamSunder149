@@ -1,6 +1,7 @@
 <h1>Hello :)</h1>
 
 ```py
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # file : main.py
@@ -24,16 +25,20 @@ data = json.load(open('data.json'))
 for candidate in data:
   print(candidate)
 print("Done")
+
 ```
 
 ```json
+
 // filename : data.json
+
 {
   "interests" : ["VAPT","Cloud","Red Teaming","Web3","Binary Exploitation"],
   "works" : ["Web Development","Cryptography","DFIR","Reverse Engineering"],
   "Daily Routine" : ["eat","sleep","code","repeat"],
   "Hobbies" : ["Music","Anime"],
 }
+
 ```
 
 
