@@ -1,7 +1,7 @@
 <h1>Hello :)</h1>
 
-```
-Hello World
+```py
+print("Hello World")
 ```
 
 
