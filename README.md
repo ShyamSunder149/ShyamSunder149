@@ -17,6 +17,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,django,bootstrap,tailwind,express)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,firebase,mongodb,nodejs,heroku,aws)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,firebase,mongodb,nodejs,heroku,aws)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
