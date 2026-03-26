@@ -56,9 +56,9 @@ Docker, Git, GCP, REST APIs
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [Add Link]
-* Portfolio: [Add Link]
-* Email: [Add Email]
+* LinkedIn: [(https://www.linkedin.com/in/shyam-sunder-saravanan/)]
+* Portfolio: [(https://shyamsunder149.github.io/)]
+* Email: [shyamnitro.cs5@gmail.com]
 
 ---
 
